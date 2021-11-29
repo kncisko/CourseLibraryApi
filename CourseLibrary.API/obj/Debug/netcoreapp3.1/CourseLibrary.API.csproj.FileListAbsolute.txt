@@ -57,5 +57,7 @@ C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\net
 C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CoreCompileInputs.cache
 C:\Users\Kresimir\source\repos\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
